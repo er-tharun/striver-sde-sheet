@@ -1,5 +1,7 @@
 //https://leetcode.com/problems/sort-colors/
 
+
+//Using Dutch National flag algorithm
 public class Solution
 {
     public void SortColors(int[] nums)
